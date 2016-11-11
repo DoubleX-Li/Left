@@ -1,6 +1,3 @@
 <resources>
     <string name="app_name">Left</string>
-    <string name="only_left">仅左声道</string>
-    <string name="only_right">仅右声道</string>
-    <string name="start_play">开始播放</string>
 </resources>
